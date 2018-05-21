@@ -1,0 +1,8 @@
+/build
+/gradle
+/screenshots
+/*.iml
+/Application/build
+/.gradle
+/.idea
+
